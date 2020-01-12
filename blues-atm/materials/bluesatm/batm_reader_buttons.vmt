@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+
+"$baseTexture"			"bluesatm/batm_reader_buttons_color"
+
+	
+"$surfaceprop" "Rubber.Small"
+"$model" 1		
+}
+
+

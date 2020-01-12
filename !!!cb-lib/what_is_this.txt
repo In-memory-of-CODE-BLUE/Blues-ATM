@@ -1,0 +1,2 @@
+This is just a bunch of functions usefull to a bunch of my addons. 
+This is not a DRM in anyway but is required for most of my addons to function correctly.

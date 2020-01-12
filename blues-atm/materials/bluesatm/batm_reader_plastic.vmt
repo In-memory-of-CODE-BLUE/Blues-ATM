@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+
+"$baseTexture"			"bluesatm/batm_reader_plastic_color"
+
+
+"$surfaceprop" "Plastic"
+"$model" 1		
+}
+

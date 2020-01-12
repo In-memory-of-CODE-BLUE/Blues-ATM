@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+
+"$baseTexture"			"bluesatm/atm_wall_logo_color"
+
+"$surfaceprop" "Metal.Large"
+"$model" 1		
+}

@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+
+"$baseTexture"			"bluesatm/batm_reader_chrome_color"
+
+	
+"$envmap" "env_cubemap"
+"$envmaptint" "[ 1 1 1 ]"
+$envmapsaturation 0.3
+
+$envmapcontrast 1.3
+
+"$surfaceprop" "Metal.Large"
+"$model" 1		
+}
+

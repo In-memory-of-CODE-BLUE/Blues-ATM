@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+
+"$baseTexture"			"bluesatm/atm_wall_plastic_cover_color"
+
+	
+"$envmap" "env_cubemap"
+"$envmaptint" "[ 0.1 0.1 0.1 ]"
+$envmapsaturation 0.5
+$envmapmask		"bluesatm/atm_wall_plastic_cover_mask"
+
+$envmapcontrast 2
+
+"$surfaceprop" "Metal.Large"
+"$model" 1		
+}

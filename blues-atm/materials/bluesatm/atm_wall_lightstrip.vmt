@@ -1,0 +1,37 @@
+"UnlitGeneric"
+{
+	"$baseTexture"			"bluesatm/atm_wall_lightstrip_color"
+	$selfillum 1
+
+	$color2 "[0.6 0.6 1]"
+	$offset 0
+	$multiplier 300
+
+	$multioffset 0
+
+	$textureoffset 0
+ 
+	Proxies
+	{
+
+		TextureTransform
+		{
+			translateVar $textureoffset
+			resultVar $baseTextureTransform
+		}
+
+		TextureScroll
+		{
+			texturescrollvar $textureoffset
+			texturescrollrate 0.3
+			texturescrollangle 270.00
+		}
+
+		EntityRandom
+		{
+			resultVar $offset
+		}
+
+	}
+
+}

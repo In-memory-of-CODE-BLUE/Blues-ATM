@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+
+"$baseTexture"			"bluesatm/atm_wall_screen_color"
+
+	
+
+"$surfaceprop" "Metal.Large"
+"$model" 1		
+}
