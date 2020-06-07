@@ -10,14 +10,6 @@ surface.CreateFont( "batm_transfer_large", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 surface.CreateFont( "batm_transfer_med", {
@@ -28,14 +20,6 @@ surface.CreateFont( "batm_transfer_med", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 
@@ -47,14 +31,6 @@ surface.CreateFont( "batm_transfer_small", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 local scene = {}

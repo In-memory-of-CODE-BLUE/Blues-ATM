@@ -9,14 +9,6 @@ surface.CreateFont( "batm_accountselect_button", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 surface.CreateFont( "batm_accountselect_button_small", {
@@ -27,14 +19,6 @@ surface.CreateFont( "batm_accountselect_button_small", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 surface.CreateFont( "batm_accountselect_button_smallest", {
@@ -45,14 +29,6 @@ surface.CreateFont( "batm_accountselect_button_smallest", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 surface.CreateFont( "batm_accountselect_title", {
@@ -63,14 +39,6 @@ surface.CreateFont( "batm_accountselect_title", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 local arrow = Material("bluesatm/arrow.png", "noclamp smooth")
