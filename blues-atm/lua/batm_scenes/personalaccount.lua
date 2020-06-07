@@ -9,14 +9,6 @@ surface.CreateFont( "batm_small", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 surface.CreateFont( "batm_accountselect_title_personalaccount", {
@@ -27,14 +19,6 @@ surface.CreateFont( "batm_accountselect_title_personalaccount", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 surface.CreateFont( "batm_personalaccount_button", {
@@ -45,14 +29,6 @@ surface.CreateFont( "batm_personalaccount_button", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 local back = Material("bluesatm/back.png", "noclamp smooth")
