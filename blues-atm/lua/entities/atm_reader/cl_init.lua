@@ -8,14 +8,6 @@ surface.CreateFont( "batm_reader_med", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 surface.CreateFont( "batm_reader_med2", {
@@ -26,14 +18,6 @@ surface.CreateFont( "batm_reader_med2", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 
@@ -45,14 +29,6 @@ surface.CreateFont( "batm_reader_small", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 
@@ -65,14 +41,6 @@ surface.CreateFont( "batm_reader_smallest", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 surface.CreateFont( "batm_reader_smallester", {
@@ -83,14 +51,6 @@ surface.CreateFont( "batm_reader_smallester", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 surface.CreateFont( "batm_reader_smallesterer", {
@@ -101,14 +61,6 @@ surface.CreateFont( "batm_reader_smallesterer", {
 	blursize = 0,
 	scanlines = 0,
 	antialias = true,
-	underline = false,
-	italic = false,
-	strikeout = false,
-	symbol = false,
-	rotary = false,
-	shadow = false,
-	additive = false,
-	outline = false,
 } )
 
 
